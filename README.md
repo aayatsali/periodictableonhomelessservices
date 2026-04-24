@@ -1,4 +1,4 @@
-# periodictableonhomelessservices
+# Periodic Table on Homeless Services Categorization
 
 Have you ever wanted to make a periodic table of homeless services? no, just me? 
 
