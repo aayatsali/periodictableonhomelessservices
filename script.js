@@ -1,7 +1,7 @@
 // Wait for the DOM to be fully loaded
-for (var i = 0; i<document.querySelectorAll(".buttonid"))
+for (var i = 0; i<document.querySelectorAll(".buttonid").length)
 
-document.querySelector("buttonID").addEventListener("click", handleClick); 
+document.querySelector("buttonid").addEventListener("click", handleClick); 
 
 function handleClick() {
     alert("something here");
